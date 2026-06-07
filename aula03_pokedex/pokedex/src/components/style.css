@@ -1,0 +1,21 @@
+.poke-card {
+    width: 280px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+    text-align: center;
+}
+
+.poke-card img {
+    width: 120px;
+    height: 120px;
+}
+
+.poke-card button {
+    margin-top: 10px;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}

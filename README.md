@@ -1,2 +1,2 @@
-# typescript_aula02
+# typescript_aulas
 aula02 typescript
